@@ -11,3 +11,9 @@ UI design
 
 
 https://www.figma.com/proto/UmjM1kCnqxtAdaXCze7ocC/Untitled?node-id=0-1&t=K4BHoRUAAVix8cJQ-1
+
+
+
+usecase diagram
+
+https://app.diagrams.net/#G1Ui7tIYl3GcPpLm9UUmHZKv8ntM9q2enq#%7B%22pageId%22%3A%22uBP_CI7idv3Wyj1EETEY%22%7D
